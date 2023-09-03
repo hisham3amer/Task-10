@@ -105,6 +105,11 @@ ul li:hover{
     line-height: 0.8;
 }
 /* End Process */
+/* Start blog */
+.fa-heart{
+    cursor: pointer;
+}
+/* End blog */
 /* Start Portfolio */
 .portfolio button{
     transition: var(--main-transition);
