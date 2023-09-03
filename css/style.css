@@ -96,13 +96,13 @@ ul li:hover{
     content: counter(x);
     counter-increment: x;
     position: absolute;
-    top:0;
+    top:0px;
     left:2px;
     color: rgb(255 255 255 / 36%);
     font-weight: bold;
     font-style: italic;
     font-size: 90px;
-    line-height: 0.65;
+    line-height: 0.7;
 }
 /* End Process */
 /* Start Portfolio */
