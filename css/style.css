@@ -96,7 +96,7 @@ ul li:hover{
     content: counter(x);
     counter-increment: x;
     position: absolute;
-    top:0px;
+    top:2px;
     left:2px;
     color: rgb(255 255 255 / 36%);
     font-weight: bold;
